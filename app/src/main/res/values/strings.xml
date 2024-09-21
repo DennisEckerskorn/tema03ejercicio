@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tema03ejercicio01</string>
+    <string name="tvGreeting">Greeting</string>
+    <string name="edName">Name</string>
+    <string name="edSurname">Surname</string>
+    <string name="bHello">Greeting</string>
+    <string name="hello">Hello</string>
+</resources>

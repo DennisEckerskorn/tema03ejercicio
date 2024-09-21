@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tema03ejercicio01</string>
+    <string name="tvGreeting">Saludo</string>
+    <string name="edName">Nombre</string>
+    <string name="edSurname">Apellido</string>
+    <string name="bHello">Saluda</string>
+    <string name="hello">Hola</string>
+</resources>
